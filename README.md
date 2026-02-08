@@ -11,8 +11,13 @@
 <a href="Vision_Transformer_기반_딥페이크_탐지_모델_개발__1_.pdf">
   <img src="https://img.shields.io/badge/Technical%20Report-PDF-red?style=for-the-badge&logo=adobe-acrobat-reader" alt="Technical Report PDF"/>
 </a>
+<a href="paper_overleaf.zip">
+  <img src="https://img.shields.io/badge/LaTeX%20Paper-Overleaf-green?style=for-the-badge&logo=overleaf" alt="Overleaf ZIP"/>
+</a>
 
 **[Vision Transformer 기반 딥페이크 탐지 모델 개발 (PDF)](Vision_Transformer_기반_딥페이크_탐지_모델_개발__1_.pdf)**
+
+**[LaTeX Paper for Overleaf (ZIP)](paper_overleaf.zip)**
 
 ---
 
