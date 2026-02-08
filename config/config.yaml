@@ -1,0 +1,28 @@
+# Deepfake Detection Configuration
+# HAI - Hecto AI Challenge 2025
+# Team: 바다의노인
+
+# Model
+img_size: 384
+model_name: "OwensLab/commfor-model-384"
+
+# Inference
+n_frames: 10
+aggregation: "mean"
+
+# Training
+batch_size: 16
+num_workers: 8
+epochs: 30
+lr: 0.0001
+weight_decay: 0.01
+focal_gamma: 2.0
+label_smoothing: 0.1
+val_ratio: 0.1
+
+# Data
+face_margin: 0.3
+n_frames_per_video: 8
+
+# Misc
+seed: 42
