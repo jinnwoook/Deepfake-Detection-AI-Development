@@ -1,8 +1,17 @@
+<div align="center">
+
 # Deepfake Detection - HAI Hecto AI Challenge 2025
 
+<img src="assets/헥토 리더보드.png" width="700" alt="Hecto AI Challenge Leaderboard"/>
+
 **팀명: 바다의노인**
-- 이하준 (한양대학교 대학원 컴퓨터 소프트웨어학과)
-- 김진욱 (서울과학기술대학교 기계공학과)
+
+| 이름 | 소속 |
+|:---:|:---|
+| 이하준 | 한양대학교 대학원 컴퓨터 소프트웨어학과 |
+| 김진욱 | 서울과학기술대학교 기계공학과 |
+
+</div>
 
 ---
 
